@@ -1,4 +1,5 @@
 {
 	"clientId": "1056038519455354900",
-	"guildId": "1055990318694146068"
+	"guildId": "1055990318694146068",
+	"commandsFolder": "commands"
 }
