@@ -1,5 +1,5 @@
 {
-	"clientId": "1056038519455354900",
-	"guildId": "1055990318694146068",
+	"clientId": "INSERT_BOT_CLIENT_ID_HERE",
+	"guildId": "INSERT_GUILD_ID_HERE",
 	"commandsFolder": "commands"
 }
