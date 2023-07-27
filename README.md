@@ -1,2 +1,2 @@
 # DiscordBot
-Just a simple template that includes a sample command handler and setup. Make sure to include your bot token in a .env file at the root directory.
+Just a simple template that includes two sample commands managed by a command handler and setup. Include your bot token in a .env file in the root directory.
